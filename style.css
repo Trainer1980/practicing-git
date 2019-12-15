@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 980px;
+    height: 1122px;
+    background: rgb(111,89,100);
+background: radial-gradient(circle, rgba(111,89,100,1) 0%, rgba(35,18,23,1) 100%);
+    margin: 0px auto;
+}
+.header{
+    display: block;
+    margin: 0px auto;
+    background: rgb(253,253,253);
+background: radial-gradient(circle, rgba(253,253,253,1) 0%, rgba(242,242,242,1) 100%);
+    height: 65px;
+}
+.image{
+    height: 275px;
+    width: 425px;
+    border: 6px solid #c0c0c0;
+    margin: 25px;
+}
+.name{
+    display: inline-block;
+    width: 500px;
+    font-size: 250%;
+    line-height: 65px;
+    font-family: cursive;
+    font-weight: bold;
+    text-indent: 1em;
+}
+.nickname{
+    display: inline-block;
+    width: 400px;
+    font-size: 125%;
+    line-height: 65px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-indent: 1em;
+}
+.about{
+    width: 450px;
+    height: 285px;
+    vertical-align: top;
+    margin-top: 27px;
+    margin-left: 12px;
+    background-color: #f9f9f9;
+    display: inline-block;
+}
+.header_2{
+    background: rgb(137,135,148);
+    background: linear-gradient(11deg, rgba(137,135,148,1) 0%, rgba(215,209,216,1) 100%);
+    height: 40px;
+    line-height: 40px;
+    color:#f3f3f5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    font-size: 25;
+    padding: 5px;
+}
+.about_info{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    padding: 5px;
+    height:160px;
+    
+}
+p{
+    margin-bottom: 1em ;
+}
+.info_boxes{
+    display: inline-block;
+    height: 650px;
+    width: 290px;
+    background-color:  #f9f9f9;
+    margin-left: 25px;
+    margin-top: 0px;
+    vertical-align: top;
+}
+.image2{
+    height: 150px;
+    width: 275px;
+}
+.tech{
+    height:32px;
+    width: 32x;
+    display: inline-block;
+    padding:10px;
+    margin: 0;
+}
+.btn{
+    height: 30px;
+    width: 95px;
+    background-color:#407d61;
+    color:#f9fbfb;
+    border-radius: 4px;
+    border: 1px solid black;
+    font-size:12px;
+    display: block;
+    margin: 10px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.contact{
+    height:30px;
+    width: 250px;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    display:block;
+}
+.socialmedia{
+    margin-left: 790px;
+
+}
+ul li{
+    height:20px;
+    display: inline-block;
+    text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    font-style:italic;
+}
+.social{
+    height:20px;
+    width:20px;
+    display: inline-block;
+}
